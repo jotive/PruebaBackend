@@ -27,7 +27,7 @@
       case 'addOk':
         ?>
           <div class="alert alert-success alert-dismissible fade show" role="alert">
-            <strong>Bien hecho!</strong> El Vendedor fue agregado
+            <strong>Bien hecho!</strong> El registro fue agregado
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -38,7 +38,7 @@
       case 'delOk':
         ?>
           <div class="alert alert-danger alert-dismissible fade show" role="alert">
-            <strong>Bien hecho!</strong> El Vendedor fue eliminado correctamente
+            <strong>Bien hecho!</strong> El registro fue eliminado correctamente
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -48,7 +48,7 @@
       case 'delOk':
         ?>
           <div class="alert alert-primary alert-dismissible fade show" role="alert">
-            <strong>Bien hecho!</strong> El Vendedor fue actualizado correctamente
+            <strong>Bien hecho!</strong> El registro fue actualizado correctamente
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>

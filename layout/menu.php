@@ -6,7 +6,7 @@
     <a href="vendedores.php" class="text-white"><i class="fa fa-user" aria-hidden="true"></i> Vendedores</a>
   </div>
   <div class="col-1 text-center">
-    <a href="clintes.php" class="text-white"><i class="fa fa-users" aria-hidden="true"></i> Clientes</a>
+    <a href="clientes.php" class="text-white"><i class="fa fa-users" aria-hidden="true"></i> Clientes</a>
   </div>
 
 </div>
